@@ -1,5 +1,5 @@
 # Rimz-star
-# 👋 Halo, Saya [Rimzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz]!
+# 👋 Halo, Saya [Rimzz]!
 
 Selamat datang di profil GitHub saya! Saya adalah [Rimzzz programer pemula].
 
